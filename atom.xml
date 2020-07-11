@@ -2,53 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SlhwSR.github.io</id>
     <title>LhW</title>
-    <updated>2020-07-11T11:19:07.209Z</updated>
+    <updated>2020-07-11T16:25:40.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SlhwSR.github.io"/>
     <link rel="self" href="https://SlhwSR.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>故人已去，留下进步</subtitle>
     <logo>https://SlhwSR.github.io/images/avatar.png</logo>
     <icon>https://SlhwSR.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LhW</rights>
     <entry>
-        <title type="html"><![CDATA[                                               喂? ]]></title>
-        <id>https://SlhwSR.github.io/hello-gridea/</id>
-        <link href="https://SlhwSR.github.io/hello-gridea/">
+        <title type="html"><![CDATA[test1]]></title>
+        <id>https://SlhwSR.github.io/test1/</id>
+        <link href="https://SlhwSR.github.io/test1/">
+        </link>
+        <updated>2020-07-11T15:56:34.000Z</updated>
+        <content type="html"><![CDATA[<p>tttttttttttttttt</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.12]]></title>
+        <id>https://SlhwSR.github.io/712/</id>
+        <link href="https://SlhwSR.github.io/712/">
+        </link>
+        <updated>2020-07-11T15:44:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天我<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>    </mtext></mrow><annotation encoding="application/x-tex">~~~~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span></span></span></span>是预言家，我跳我会去健身房，<strong>大概是下午走右</strong>，<strong>早上应该不会吃饭</strong>。<br>
+<img src="https://SlhwSR.github.io/post-images/*1594482376566*.jpg" alt="" loading="lazy"><br>
+晚上继续搞开发，日记会照写。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天我<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>    </mtext></mrow><annotation encoding="application/x-tex">~~~~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span><span class="mspace nobreak"> </span></span></span></span>是预言家，我跳我会去健身房，<strong>大概是下午走右</strong>，<strong>早上应该不会吃饭</strong>。<br>
+<img src="https://SlhwSR.github.io/post-images/*1594482376566*.jpg" alt="" loading="lazy"><br>
+晚上继续搞开发，日记会照写。</p>
+<!-- more -->
+<p>👈👈🤳✍️</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.11]]></title>
+        <id>https://SlhwSR.github.io/711/</id>
+        <link href="https://SlhwSR.github.io/711/">
+        </link>
+        <updated>2020-07-11T15:30:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天是去健身房的第n天，也是实习周快结束的倒数第7天，进入假期🍉。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天是去健身房的第n天，也是实习周快结束的倒数第7天，进入假期🍉。</p>
+<!-- more -->
+<p>plan：<br>
+☁️🏋⌚️🎎📃🚓</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://SlhwSR.github.io/post-images/1594481692020.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                                Welcome to lHw's Life ]]></title>
+        <id>https://SlhwSR.github.io/hey,lv/</id>
+        <link href="https://SlhwSR.github.io/hey,lv/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://SlhwSR.github.io/post-images/1594466275225.JPG" alt="" loading="lazy"><br>
-✍️  *我将用它可它来记录生活、心情、知识、笔记、创意... ...</p>
-<p><a href="https://SlhwSR.github.io">Github</a><br>
+        <summary type="html"><![CDATA[<p>✍️  *我将用它可它来记录生活、心情、知识、笔记、创意... ...<br>
+<a href="https://SlhwSR.github.io">Github</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝   i will update my life</p>
-<p>🌉  so,may be they will change</p>
-<p>🏷️  i will organze my life by charging organze</p>
-<p>📋  i will design a list  about how to pay</p>
-<p>💻  <strong>Windows</strong>，<strong>MacOS</strong></p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🌱 当然 有很多不足，但请相信，它会不停向前 🏃</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://SlhwSR.github.io/post-images/1594466275225.JPG" alt="" loading="lazy"><br>
-✍️  *我将用它可它来记录生活、心情、知识、笔记、创意... ...</p>
-<p><a href="https://SlhwSR.github.io">Github</a><br>
+        <content type="html"><![CDATA[<p>✍️  *我将用它可它来记录生活、心情、知识、笔记、创意... ...<br>
+<a href="https://SlhwSR.github.io">Github</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝   i will update my life</p>
+<!-- more -->
 <p>🌉  so,may be they will change</p>
 <p>🏷️  i will organze my life by charging organze</p>
 <p>📋  i will design a list  about how to pay</p>
 <p>💻  <strong>Windows</strong>，<strong>MacOS</strong></p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平<br>
+台 、</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统  👁‍🗨</p>
 <p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
 <p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
 <p>🌱 当然 有很多不足，但请相信，它会不停向前 🏃</p>
 <!-- more -->
 <p>未来，离不开的伙伴</p>
+<!-- more -->
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
